@@ -1,1 +1,2 @@
 # wiseSplitMoney
+This application serves the purpose of expense sharing. It allows users to create and manage a list of friends, and share expense information with them. Users can add new friends, select friends with whom to share bills, and input bill amounts along with their own and their friends' expenses. The application calculates the amount each person should pay or receive based on the input information, and presents the results to the user. This enables users to manage and split bills more conveniently, ensuring that everyone pays their fair share.
